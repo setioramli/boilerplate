@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="text_username">Username</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_password">Password</string>
+    <string name="txt_list_user">List User</string>
+    <string name="txt_error">Gagal terhubung dengan server, mohon coba kembali secara berkala</string>
+    <string name="txt_retry">Coba Lagi</string>
+    <string name="txt_cancel">Batalkan</string>
+    <string name="txt_no_internet_connection">Koneksi Internet Terputus</string>
+    <string name="txt_check_your_internet_connection">Mohon periksa jaringan internet Anda!</string>
+
+</resources>
